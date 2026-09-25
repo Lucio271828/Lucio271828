@@ -17,13 +17,11 @@ useful insights using Python and SQL.
 
 ## Projects
 
-### E-commerce Sales Analysis
-Data cleaning and business-oriented sales analysis using Python, Pandas,
-SQL, and MySQL.
+### [E-commerce Sales Analysis](https://github.com/Lucio271828/ecommerce-sales-analysis)
+Data cleaning and business-oriented sales analysis using Python, Pandas, SQL, and MySQL.
 
-### Coppel Sales Analysis
-Sales data analysis using Python, Pandas, and Matplotlib to explore
-customers, products, cities, and sales performance.
+### [Coppel Sales Analysis](https://github.com/Lucio271828/sales-analysis-Coppel)
+Sales data analysis using Python, Pandas, and Matplotlib.
 
 ## Background
 
