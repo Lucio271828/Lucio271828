@@ -3,19 +3,21 @@
 I'm a Physics graduate interested in Data Analysis and Data Science.
 
 I enjoy working with data to identify patterns, solve problems, and extract
-useful insights using Python and SQL.
+useful insights.
 
 ## Skills
 
 - Python
 - Pandas
-- SQL
 - MySQL
 - Matplotlib
-- Data Cleaning
+- Scikit-learn
 - Data Analysis
 
 ## Projects
+
+### [Chicago Taxi Fare Prediction](https://github.com/Lucio271828/chicago-taxi-fare-prediction)
+Built a Linear Regression model to predict taxi fares based on trip distance using Python, Pandas, and Scikit-learn. Evaluated model performance using MAE and R².
 
 ### [E-commerce Sales Analysis](https://github.com/Lucio271828/ecommerce-sales-analysis)
 Data cleaning and business-oriented sales analysis using Python, Pandas, SQL, and MySQL.
