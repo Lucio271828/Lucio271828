@@ -12,7 +12,7 @@ useful insights.
 - MySQL
 - Matplotlib
 - Scikit-learn
-- Data Analysis
+- Machine Learning
 
 ## Projects
 
